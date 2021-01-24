@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+//Dmitri's Script for Lines 45-117
+using UnityEngine;
 using System.Collections;
 using UnityEngine.SceneManagement;
 
