@@ -5,3 +5,19 @@ A Unity Hackathon Game I created with four other teammates for my Computational 
 <br>
 <h1>Title Screen</h1>
 <img src="https://github.com/mitri-slory/Unity-Hackathon-Game-2020-/blob/Screenshots%26Gifs/StartScreen.jpg" alt="Dataworks Title Screen" width="794" height="597">
+<br>
+<br>
+<br>
+<h1>Start of Level</h1>
+<img src="https://github.com/mitri-slory/Unity-Hackathon-Game-2020-/blob/Screenshots%26Gifs/BeginningofLevel.png" alt="Dataworks Title Screen" width="794" height="597">
+<br>
+<br>
+<br>
+<h1>Lava Image</h1>
+<img src="https://github.com/mitri-slory/Unity-Hackathon-Game-2020-/blob/Screenshots%26Gifs/LavaImage.png" width="794" height="597">
+<br>
+<br>
+<br>
+<h1>Lose Screen</h1>
+<img src="https://github.com/mitri-slory/Unity-Hackathon-Game-2020-/blob/Screenshots%26Gifs/LoseScreen.png" width="794" height="597">
+
